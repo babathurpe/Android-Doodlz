@@ -101,7 +101,7 @@ public class ColorDialogFragment extends DialogFragment
 
         // imageSpinner.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener()
 //        imageSpinner.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
-//
+// Making App Crash....
 //            @Override
 //            public void onItemSelected(AdapterView<?> parent, View view, int position, long id) {
 //                String imageName = parent.getItemAtPosition(position).toString();
